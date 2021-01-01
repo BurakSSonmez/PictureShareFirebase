@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569302723097",
+    "project_id": "pictureshare-5fdef",
+    "storage_bucket": "pictureshare-5fdef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569302723097:android:7421368a5e3fcc736c1888",
+        "android_client_info": {
+          "package_name": "com.sonmez.picturesharefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569302723097-jnp5t20j186vad4vvv7pri5tt8fsoeb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIJEeSRqQda3vLhqWlk0jkW3StURgPJu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569302723097-jnp5t20j186vad4vvv7pri5tt8fsoeb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
